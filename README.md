@@ -57,10 +57,3 @@ A summary view with KPIs tracking NRW reduction target, current performance, yea
 
 ## Data Notice  
 All data used in this project is either anonymised or generated for demonstration/portfolio purposes. This dashboard is intended for educational and portfolio display use only.  
-
----
-
-### License  
-MIT License  
-
-
