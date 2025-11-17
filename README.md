@@ -60,15 +60,6 @@ All data used in this project is either anonymised or generated for demonstratio
 
 ---
 
-## About  
-A Power BI dashboard designed to track and visualise non-revenue water (NRW) metrics for water utility operations. It supports decision-making by highlighting where losses occur, how they change over time, and the financial impact of those losses.  
-
-### Topics  
-`data-visualisation` `business-intelligence` `powerbi` `nrw` `water-utility` `analytics` `loss-analysis` `portfolio-project`  
-
-### Resources  
-- README  
-
 ### License  
 MIT License  
 
